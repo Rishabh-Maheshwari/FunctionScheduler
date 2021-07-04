@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1625341220 source:c:\users\mahes\documents\projecs\scheduleexecutor\scheduler.cpp
+	"Scheduler.h"
+
+1625410525 c:\users\mahes\documents\projecs\scheduleexecutor\scheduler.h
+	"Task.h"
+	<mutex>
+	<thread>
+
+1625410266 source:c:\users\mahes\documents\projecs\scheduleexecutor\main.cpp
+	<iostream>
+	<conio.h>
+	"Scheduler.h"
+
+1625410236 c:\users\mahes\documents\projecs\scheduleexecutor\task.h
+	"common.h"
+
+1624728765 c:\users\mahes\documents\projecs\scheduleexecutor\common.h
+	<queue>
+	<functional>
+	<iostream>
+
+1624701613 source:c:\users\mahes\documents\projecs\scheduleexecutor\task.cpp
+	"Task.h"
+
